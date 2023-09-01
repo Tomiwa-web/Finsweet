@@ -134,7 +134,7 @@ main .homepage .home-left .bottom-element .bottom-text #bolder-text {
 main .homepage .home-right {
     width: 50%;
     height: 100%;
-    background-image: url(/img/header_image.png);
+    background-image: url(../img/header_image.png);
     background-position: cover;
     background-size: cover;
     background-repeat: no-repeat;
